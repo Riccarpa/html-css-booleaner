@@ -28,6 +28,9 @@ h1{
 #booleaners{
     color: lightseagreen;
 }
+.yellow{
+    background-color: yellow;
+}
 thead{
     background-color: rgb(50, 166, 212);
     color: white;

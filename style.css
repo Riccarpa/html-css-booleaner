@@ -1,0 +1,15 @@
+/* header */
+header{
+    height: 100px;
+    background-image: url(img/pattern.png);
+    background-color: rgb(50, 166, 212);
+    background-position-y:center;
+    /* backgrund position? */
+
+}
+.logo{
+    width: 200px;
+    height: 100px;
+    /* padding? */
+}
+/* main */

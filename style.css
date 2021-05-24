@@ -4,7 +4,7 @@ header{
     background-image: url(img/pattern.png);
     background-color: rgb(50, 166, 212);
     background-position-y:center;
-    /* backgrund position? */
+    /* background position? */
 
 }
 .logo{
@@ -12,4 +12,19 @@ header{
     height: 100px;
     /* padding? */
 }
+
 /* main */
+
+h1{
+    width: 70%;
+    font-size: 38px;
+    }
+
+.references{
+    color:gray;
+    font-size: 1em;
+    width: 14%;
+}
+#booleaners{
+    color: lightseagreen;
+}

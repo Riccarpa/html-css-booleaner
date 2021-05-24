@@ -28,3 +28,30 @@ h1{
 #booleaners{
     color: lightseagreen;
 }
+thead{
+    background-color: rgb(50, 166, 212);
+    color: white;
+}
+.raw{
+    background-color: rgb(143, 218, 231);
+  
+}
+/* footer */
+.suggest{
+    color: gray;
+}
+.suggest1{
+    background-image: url(img/monitor.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    color: white;
+}
+
+.suggest2{
+    background-image: url(img/graph.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    color: white;
+}
